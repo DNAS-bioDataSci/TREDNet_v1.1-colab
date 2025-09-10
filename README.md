@@ -1,6 +1,7 @@
 # TREDNet_v1.1 Setup Instructions
 
-This project requires a specific Conda environment to be created and activated before running the pipeline.
+!This project requires a specific Conda environment to be created and activated before running the pipeline.
+!Fasta file must be downloaded separately
 
 ## Step 1. Create the Conda Environment
 Make sure you have [Conda](https://docs.conda.io/en/latest/miniconda.html) installed on your system.
