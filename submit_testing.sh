@@ -2,7 +2,7 @@
 
 # Initialize Conda (ensure conda commands work in this script)
 # If enviroment not activated, remove comments below
-source /net/intdev/devdcode/gaetano/projects/miniconda3/etc/profile.d/conda.sh   # adjust path if needed
+source ../miniconda3/etc/profile.d/conda.sh   # adjust path if needed
 conda activate tf2.15-gpu
 
 # Resolve script directory

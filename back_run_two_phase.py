@@ -35,7 +35,7 @@ MAX_NORM = 1
 nucleotides = ['A', 'C', 'G', 'T']
 
 #replaced by sh file
-MODEL_DIR = "sourcemodelI/"
+MODEL_DIR = "sourcemodelI"
 FASTA_FILE = "sourcefasta"
 #source_input="sourceinput/EID"
 source_input="sourceinput/"
