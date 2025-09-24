@@ -13,7 +13,7 @@ The Colab jupyter notebook:
 - runs the deep learning pipeline on genomic input data and outputs classification results
 - shows summary of the TREDNet classification performance results
 
-# BioDataSci.com - contract support
+# BioDataSci.com - AI/ML/Ops support
 
 <table>
   <tr>
