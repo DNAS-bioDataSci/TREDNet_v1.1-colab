@@ -1,6 +1,6 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DNAS-bioDataSci/TREDNet_v1.1-colab/blob/main/TREDNet.ipynb)
 
-- 🧬 GWAS → fine-map🔻🧣→ **TREDNet** 🤖💎 → assays 👩‍🔬🧫 → translation 💊
+- 🧬 GWAS → fine-map🔻🧣→ **TREDNet** 🤖💎 →[..tba..]→ assays 👩‍🔬🧫 → translation 💊
 
 TREDNet is a genomics tool developed at NIH for functional studies with translational potential. It is particularly powerful for diseases where noncoding enhancer variants drive pathology, like type 2 diabetes (T2D).  This repo contains BioDataSci's port of the original TREDNet to Google Colab's NVIDIA-GPU environment.
 
